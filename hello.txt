@@ -6,3 +6,5 @@ HEAD
 4444444
 matser test
 4444444 hot-fixhot-fix
+if this (1；10)
+  else  print (2)
